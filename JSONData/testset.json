@@ -3,9 +3,9 @@
 {"name":"natepann","group":1},
 {"name":"DCinside","group":1},
 {"name":"ruriweb","group":1},
-{"name":"agora","group":1},
-{"name":"todayhumor","group":1},
-{"name":"ilbe","group":1}
+{"name":"agora","group":2},
+{"name":"todayhumor","group":2},
+{"name":"ilbe","group":2}
 ],
   "links":[
 {"source":0,"target":1,"value":0.566},
