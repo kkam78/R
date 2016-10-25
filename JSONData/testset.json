@@ -1,8 +1,8 @@
 {
   "nodes":[
 {"name":"natepann","group":1},
-{"name":"DCinside","group":1},
-{"name":"ruriweb","group":1},
+{"name":"DCinside","group":2},
+{"name":"ruriweb","group":3},
 {"name":"agora","group":2},
 {"name":"todayhumor","group":2},
 {"name":"ilbe","group":2}
