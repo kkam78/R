@@ -1,11 +1,11 @@
 {
   "nodes":[
-{"name":"NT","group":1},
-{"name":"DC","group":2},
-{"name":"RU","group":3},
-{"name":"AG","group":4},
-{"name":"OU","group":5},
-{"name":"IB","group":6}
+{"name":"Nt","group":1},
+{"name":"Dc","group":2},
+{"name":"Ru","group":3},
+{"name":"Ag","group":4},
+{"name":"Ou","group":5},
+{"name":"Ib","group":6}
 ],
   "links":[
 {"source":0,"target":1,"value":0.566},
