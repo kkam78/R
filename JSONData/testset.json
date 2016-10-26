@@ -8,21 +8,21 @@
 {"name":"ru","group":6}
 ],
   "links":[
-{"source":0,"target":1,"value":0.999583}, //ag-dc
-{"source":0,"target":2,"value":0.998957}, //ag-ib
-{"source":0,"target":3,"value":0.534485}, //ag-nt
-{"source":0,"target":4,"value":0.996726}, //ag-ou
-{"source":0,"target":5,"value":0.960543}, //ag-ru
-{"source":1,"target":2,"value":0.997382}, //dc-ib
-{"source":1,"target":3,"value":0.525571}, //dc-nt
-{"source":1,"target":4,"value":0.994954}, //dc-ou
-{"source":1,"target":5,"value":0.95778}, //dc-ru
-{"source":2,"target":3,"value":0.56137}, //ib-nt 
-{"source":2,"target":4,"value":0.996914}, //ib-ou
-{"source":2,"target":5,"value":0.968093}, //ib-ru
-{"source":3,"target":4,"value":0.504884}, //nt-ou
-{"source":3,"target":5,"value":0.747785}, //nt-ru
-{"source":4,"target":5,"value":0.947498} //ou-ru
+{"source":0,"target":1,"value":0.999583}, 
+{"source":0,"target":2,"value":0.998957}, 
+{"source":0,"target":3,"value":0.534485}, 
+{"source":0,"target":4,"value":0.996726}, 
+{"source":0,"target":5,"value":0.960543}, 
+{"source":1,"target":2,"value":0.997382}, 
+{"source":1,"target":3,"value":0.525571}, 
+{"source":1,"target":4,"value":0.994954}, 
+{"source":1,"target":5,"value":0.95778}, 
+{"source":2,"target":3,"value":0.56137},  
+{"source":2,"target":4,"value":0.996914}, 
+{"source":2,"target":5,"value":0.968093}, 
+{"source":3,"target":4,"value":0.504884}, 
+{"source":3,"target":5,"value":0.747785}, 
+{"source":4,"target":5,"value":0.947498} 
 ]
 }
 
