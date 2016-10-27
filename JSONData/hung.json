@@ -1,0 +1,29 @@
+{
+  "nodes":[
+{"name":"ag","group":1},
+{"name":"dc","group":2},
+{"name":"ib","group":3}
+{"name":"nt","group":4},
+{"name":"ou","group":5},
+{"name":"ru","group":6}
+],
+  "links":[
+{"source":0,"target":1,"value":0.584899}, 
+{"source":0,"target":2,"value":0.701486}, 
+{"source":0,"target":3,"value":0.397619}, 
+{"source":0,"target":4,"value":0.397619}, 
+{"source":0,"target":5,"value":0.397962}, 
+{"source":1,"target":2,"value":0.393651}, 
+{"source":1,"target":3,"value":0.386323}, 
+{"source":1,"target":4,"value":0.369882}, 
+{"source":1,"target":5,"value":0.407935}, 
+{"source":2,"target":3,"value":0.267971},  
+{"source":2,"target":4,"value":0.250649}, 
+{"source":2,"target":5,"value":0.268465}, 
+{"source":3,"target":4,"value":0.715435}, 
+{"source":3,"target":5,"value":0.780695}, 
+{"source":4,"target":5,"value":0.758451} 
+]
+}
+
+
