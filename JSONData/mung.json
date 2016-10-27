@@ -2,7 +2,7 @@
   "nodes":[
 {"name":"ag","group":1},
 {"name":"dc","group":2},
-{"name":"ib","group":3}
+{"name":"ib","group":3},
 {"name":"nt","group":4},
 {"name":"ou","group":5},
 {"name":"ru","group":6}
